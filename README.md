@@ -1,1 +1,1 @@
-# Magento 2 Store Locator Module
+# Magento 2 Store Locator Extension
