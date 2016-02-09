@@ -1,1 +1,1 @@
-# module-store-locator
+# Magento 2 Store Locator Module
